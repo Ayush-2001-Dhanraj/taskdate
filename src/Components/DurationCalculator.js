@@ -1,7 +1,6 @@
-import React from 'react'
+import React, { useState } from 'react'
 import moment from 'moment'
 import './DurationCalculator.css'
-import { useState } from 'react/cjs/react.development'
 
 const DurationCalculator = () => {
   let initialDate = moment().format('ll')
