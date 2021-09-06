@@ -9,7 +9,7 @@ function App () {
       <h1 className='text-center'>Date Calculate</h1>
       <DurationCalculator />
       {/* <OldCalculator /> */}
-      <p className='text-center'>Created by Ayush Dhanraj</p>
+      <p className='text-center'>Created by Ayush </p>
     </>
   )
 }
